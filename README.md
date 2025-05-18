@@ -69,8 +69,9 @@ To understand the key reasons behind employee attrition and help HR take data-dr
 
 ## 📦 Deliverables
   
-- 📸 `HR_Attrition_Dashboard_Screenshot.png` –![HR Dashboard](https://github.com/user-attachments/assets/64ba850e-dfdd-4f11-b95c-35abc1bd60f8)(#)
+- 📸 `HR_Dashboard_View` –
+- ![HR Dashboard](https://github.com/user-attachments/assets/64ba850e-dfdd-4f11-b95c-35abc1bd60f8)
 
     
 - 📄 `HR_Employee_Attrition_Report.pdf` – [Download Report][HR Analytics Report.pdf](https://github.com/user-attachments/files/20273017/HR.Analytics.Report.pdf)(#)
-- 
+ 
